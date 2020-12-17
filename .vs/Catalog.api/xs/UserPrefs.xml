@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{A7990B75-D12B-4C8E-AFDC-F0ECE03ED517}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Catalog.api/Controllers/TodoItemsController.cs">
+    <Files>
+      <File FileName="Catalog.api/WeatherForecast.cs" Line="16" Column="1" />
+      <File FileName="Catalog.api/Controllers/TodoItemsController.cs" Line="32" Column="33" />
+      <File FileName="Catalog.api/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Catalog.api/Models/TodoContext.cs" Line="11" Column="1" />
+      <File FileName="Catalog.api/Models/TodoItem.cs" Line="1" Column="1" />
+      <File FileName="Catalog.api/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Catalog.api" expanded="True">
+            <Node name="Catalog.api" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="TodoItemsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Catalog.api PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
